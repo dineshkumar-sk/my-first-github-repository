@@ -2,6 +2,4 @@
 My first github repository. Let's started learning
 
 Adding one more line to the ReadMe file
-
-Adding a new line again. 
-Adding a new line locally.
+Updated the Readme file manually during the conflict resolution.
