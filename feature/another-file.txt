@@ -2,3 +2,4 @@ Updated from feature-2
 Adding a new line to another-file.txt
 Adding a new line locally from Feature-2
 Added one more line after modified the user
+modified to test git push conflict
